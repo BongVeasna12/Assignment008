@@ -1,0 +1,26 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /dashboard
+
+Sitemap: https://nextjs-typescript-eta.vercel.app/sitemap.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
